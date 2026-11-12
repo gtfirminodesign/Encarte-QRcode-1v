@@ -1,0 +1,10 @@
+# Publicar apenas o encarte estático.
+*
+!public/
+public/*
+!public/index.html
+!public/Capa.jpeg
+!public/Verso.jpeg
+!vercel.json
+!.vercelignore
+
